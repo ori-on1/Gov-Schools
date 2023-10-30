@@ -1,12 +1,20 @@
 {
     "items": [
  {
-    "name of school": "Kalika Manavgyan Secondary School",
-    "url": "https://kalikaschoolbtl.edu.np/",
-    "email": "info@kalikaschool.com.np/ kalikass.butwal2018@gmail.com",
-    "contact": "9857022315",
-    "address": "Butwal-10, Rupandehi",
-    "description": "Detail of Kalika Manavgyan Secondary School"
+    "name of school": "Rastriya Primary School",
+    "url": "N/A",
+    "email": "N/A",
+    "contact": "N/A",
+    "address": "Tapubhangyang, Sworek Syangja",
+    "description": "Detail of Rastriya Primary School"
+ },
+ {
+    "name of school": "Janata Secondary School (JVT)",
+    "url": "http://janataschooltansen.edu.np/",
+    "email": " janataschooljvt@gmail.com ",
+    "contact": "075-520107,9857078107",
+    "address": "Tansen Municipality-3, Basantapur,Palpa ",
+    "description": "Detail of Janata Secondary School"
 },
 {
     "name of school": "Kanti Secondary School",
@@ -15,7 +23,7 @@
     "contact": "9857036211",
     "address": "Butwal -4,Rupandehi ",
     "description": "Detail of Kanti Secondary  School"
-    }
+},
 {
 "name of school": "Rastriya Primary School",
 "url": "N/A",
