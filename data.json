@@ -89,11 +89,11 @@
       "description": "Detail of Rastriya Primary School"
     },
     {
-       "name of school": "Shanti Namuna Secondary School",
-       "url": "N/A",
-       "email": "shantinamuna2016@gmail.com",
-       "contact": "071-560188",
-       "address": "Manigram Rupandehi",
+      "name of school": "Shanti Namuna Secondary School",
+      "url": "N/A",
+      "email": "shantinamuna2016@gmail.com",
+      "contact": "071-560188",
+      "address": "Manigram Rupandehi",
       "description": "Detail of shantinamuna2016@gmail.com"
     },
     {
@@ -135,6 +135,14 @@
       "contact": "N/A",
       "address": "Putalibazar, Syangja",
       "description": "Detail of Shree Kalika Secondary School"
+    },
+    {
+      "name of school": "Shree Krishna Higher Secondary School",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "075-690464",
+      "address": "Pipaldanda, Palpa",
+      "description": "Detail of Shree Krishna Higher Secondary School"
     },
     {
       "name of school": "Shree Nav Durga Secondary School",
