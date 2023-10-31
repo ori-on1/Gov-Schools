@@ -16,13 +16,14 @@
       "address": "Pakwadi Syangja",
       "description": "Detail of Gyanodaya Secondary School"
     },
-       "name of school": "Chhangchhangdi Primary School",
-        "url": "N/A",
-        "email": "N/A",
-        "contact": "N/A",
-        "address": "Chhangchhangdi",
-        "description": "Detail of Chhangchhangdi Primary School"
-      },
+    {
+      "name of school": "Chhangchhangdi Primary School",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "N/A",
+      "address": "Chhangchhangdi",
+      "description": "Detail of Chhangchhangdi Primary School"
+    },
     {
       "name of school": "Janabikash Ma Vi Lamtung",
       "url": "N/A",
@@ -56,9 +57,17 @@
       "description": "Detail of Kanti Secondary  School"
     },
     {
+      "name of school": "Shree Janakalyan Higher Secondary School",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "N/A",
+      "address": "Gejhe-7, Palpa",
+      "description": "Detail of Shree Janakalyan Higher Secondary School"
+    },
+    {
       "name of school": "Shree Purnamrit Bhawani Secondary School",
       "url": "N/A",
-      "email": "kantihss@gmail.com",
+      "email": "N/A",
       "contact": "063412021",
       "address": "Waling",
       "description": "Detail of Shree Purnamrit Bhawani Secondary School"
