@@ -37,7 +37,7 @@
 "name of school": "Rastriya Primary School",
 "url": "N/A",
 "email": "N/A",
-"contact": "contact of school you added",
+"contact": "N/A",
 "address": "Tapubhangyang, Sworek Syangja",
 "description": "Detail of Rastriya Primary School"
 },
@@ -47,8 +47,16 @@
     "email": "bhairabnavadeep2016@gmail.com",
     "contact": "9857062815",
     "address": "Rainadevi Chhahara -4 , Chhahara Palpa",
-    "description": "Detail of Shree Bhairav Navadeep  Secondary School"
+    "description": "Detail of Shree Bhairav Navadeep Secondary School"
 },
+{
+    "name of school": "Shree Ranaveer Janahit Secondary School",
+    "url": "N/A",
+    "email": "N/A",
+    "contact": "063-440216",
+    "address": "Waling",
+    "description": "Detail of Shree Ranaveer Janahit Secondary School"
+    },
 {
     "name of school": "Shree Nav Durga Secondary School",
     "url": "N/A",
