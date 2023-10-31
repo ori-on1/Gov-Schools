@@ -1,101 +1,108 @@
 {
-    "items": [
-
-{
-   "name of school": "Bhairab Janata Higher Secondary School ",
-   "url": "N/A",
-   "email": "N/A",
-   "contact": "075-520108",
-   "address": "Bhairavsthan , Palpa",
-   "description": "Detail of Bhairab Janata Higher Secondary School "
-},
-{
-    "name of school": "Janabikash Ma Vi Lamtung",
-    "url": "N/A",
-    "email": "N/A",
-    "contact": "N/A",
-    "address": "Rapakot- Arjunchaupari sadak, Pakhapani",
-    "description": "Detail of Janabikash Ma Vi Lamtung"
-},
-{
-    "name of school": "Janata Secondary School (JVT)",
-    "url": "http://janataschooltansen.edu.np/",
-    "email": " janataschooljvt@gmail.com ",
-    "contact": "075-520107,9857078107",
-    "address": "Tansen Municipality-3, Basantapur,Palpa ",
-    "description": "Detail of Janata Secondary School"
-},
-{
-    "name of school": "Kanti Secondary School",
-    "url": "N/A",
-    "email": "kantihss@gmail.com",
-    "contact": "9857036211",
-    "address": "Butwal -4,Rupandehi ",
-    "description": "Detail of Kanti Secondary  School"
-},
-{
-"name of school": "Rastriya Primary School",
-"url": "N/A",
-"email": "N/A",
-"contact": "N/A",
-"address": "Tapubhangyang, Sworek Syangja",
-"description": "Detail of Rastriya Primary School"
-},
-{
-    "name of school": "Shree Bhairav Navadeep  Secondary School",
-    "url": "https://www.bhairabnavadeep.edu.np/",
-    "email": "bhairabnavadeep2016@gmail.com",
-    "contact": "9857062815",
-    "address": "Rainadevi Chhahara -4 , Chhahara Palpa",
-    "description": "Detail of Shree Bhairav Navadeep Secondary School"
-},
-{
-    "name of school": "Shree Ranaveer Janahit Secondary School",
-    "url": "N/A",
-    "email": "N/A",
-    "contact": "063-440216",
-    "address": "Waling",
-    "description": "Detail of Shree Ranaveer Janahit Secondary School"
+  "items": [
+    {
+      "name of school": "Bhairab Janata Higher Secondary School ",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "075-520108",
+      "address": "Bhairavsthan , Palpa",
+      "description": "Detail of Bhairab Janata Higher Secondary School "
     },
-{
-    "name of school": "Shree Nav Durga Secondary School",
-    "url": "N/A",
-    "email": "shreenavadurga2080@gmail.com",
-    "contact": "982-4453422",
-    "address": "Dogahara, S.N.P - 04, Rupandehi",
-    "description": "Detail of Shree Nava Durga Secondary School"
-},
-{
-    "name of school": "Shree Siddha Basic Vidhalaya",
-    "url": "N/A",
-    "email": "N/A",
-    "contact": "9846238249",
-    "address": "Arjun Chaupari",
-    "description": "Detail of Shree Siddha Basic Vidhalaya"
-},
-{
-    "name of school": "Shree Siddhartha Secondary School",
-    "url": "N/A",
-    "email": "shreenavadurga2080@gmail.com",
-    "contact": "063-429480",
-    "address": "Phedikhola, Syangja",
-    "description": "Detail of Shree Siddhartha Secondary School"
-},
-{
-"name of school": "Shree Susanskrit Secondary School",
-"url": "N/A",
-"email": "N/A",
-"contact": "985-7012434",
-"address": "Siddharth Nagar 13, Bhairahawa, Nepal",
-"description": "Detail of Shree Susanskrit Secondary School"
-},
-{
-    "name of school": "Syangja Secondary School",
-    "url": "N/A",
-    "email": "N/A",
-    "contact": "063-420554",
-    "address": "Putalibazar",
-    "description": "Detail of Syangja Secondary School"
+    {
+      "name of school": "Janabikash Ma Vi Lamtung",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "N/A",
+      "address": "Rapakot- Arjunchaupari sadak, Pakhapani",
+      "description": "Detail of Janabikash Ma Vi Lamtung"
+    },
+    {
+      "name of school": "Janata Secondary School (JVT)",
+      "url": "http://janataschooltansen.edu.np/",
+      "email": " janataschooljvt@gmail.com ",
+      "contact": "075-520107,9857078107",
+      "address": "Tansen Municipality-3, Basantapur,Palpa ",
+      "description": "Detail of Janata Secondary School"
+    },
+    {
+      "name of school": "Kanti Secondary School",
+      "url": "N/A",
+      "email": "kantihss@gmail.com",
+      "contact": "9857036211",
+      "address": "Butwal -4,Rupandehi ",
+      "description": "Detail of Kanti Secondary  School"
+    },
+    {
+      "name of school": "Rastriya Primary School",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "N/A",
+      "address": "Tapubhangyang, Sworek Syangja",
+      "description": "Detail of Rastriya Primary School"
+    },
+    {
+      "name of school": "Shree Bhairav Navadeep  Secondary School",
+      "url": "https://www.bhairabnavadeep.edu.np/",
+      "email": "bhairabnavadeep2016@gmail.com",
+      "contact": "9857062815",
+      "address": "Rainadevi Chhahara -4 , Chhahara Palpa",
+      "description": "Detail of Shree Bhairav Navadeep Secondary School"
+    },
+    {
+      "name of school": "Shree Gyan Jyoti Primary School",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "N/A",
+      "address": "Jagatradevi",
+      "description": "Detail of Shree Gyan Jyoti Primary School"
+    },
+    {
+      "name of school": "Shree Nav Durga Secondary School",
+      "url": "N/A",
+      "email": "shreenavadurga2080@gmail.com",
+      "contact": "982-4453422",
+      "address": "Dogahara, S.N.P - 04, Rupandehi",
+      "description": "Detail of Shree Nava Durga Secondary School"
+    },
+    {
+      "name of school": "Shree Ranaveer Janahit Secondary School",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "063-440216",
+      "address": "Waling",
+      "description": "Detail of Shree Ranaveer Janahit Secondary School"
+    },
+    {
+      "name of school": "Shree Siddha Basic Vidhalaya",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "9846238249",
+      "address": "Arjun Chaupari",
+      "description": "Detail of Shree Siddha Basic Vidhalaya"
+    },
+    {
+      "name of school": "Shree Siddhartha Secondary School",
+      "url": "N/A",
+      "email": "shreenavadurga2080@gmail.com",
+      "contact": "063-429480",
+      "address": "Phedikhola, Syangja",
+      "description": "Detail of Shree Siddhartha Secondary School"
+    },
+    {
+      "name of school": "Shree Susanskrit Secondary School",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "985-7012434",
+      "address": "Siddharth Nagar 13, Bhairahawa, Nepal",
+      "description": "Detail of Shree Susanskrit Secondary School"
+    },
+    {
+      "name of school": "Syangja Secondary School",
+      "url": "N/A",
+      "email": "N/A",
+      "contact": "063-420554",
+      "address": "Putalibazar",
+      "description": "Detail of Syangja Secondary School"
     }
-]
+  ]
 }
