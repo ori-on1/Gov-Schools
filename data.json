@@ -121,6 +121,14 @@
       "description": "Detail of Nepal Government Lower Secondary School"
     },
     {
+      "name of school": "Padmodaya Public Model Secondary School ",
+      "url": "N/A",
+      "email": "padmodaya.edu.np",
+      "contact": "082-560212",
+      "address": "Ghorahi,Dang",
+      "description": "Detail of Padmodaya Public Model Secondary School"
+    },
+    {
       "name of school": "Padsari Basic School",
       "url": "N/A",
       "email": "N/A",
@@ -297,12 +305,13 @@
       "description": "Detail of Tribhuwan Adarsha Model Secondary School"
     },
     {
-      "name of school": "Viswa Niketan Secondary School,",
+      "name of school": "Viswa Niketan Secondary School",
       "url": "https://viswaniketan.edu.np/",
       "email": "N/A",
       "contact": "01-4266306",
       "address": "Tripureshwor, Kathmandu",
       "description": "Detail of Viswa Niketan Secondary School,"
     }
+    
   ]
 }
