@@ -1,6 +1,14 @@
 {
   "items": [
     {
+      "name of school": "Adarsha Secondary School",
+      "url": "http://shreeadarsh.edu.np",
+      "email": "N/A",
+      "contact": "+977-82-580046",
+      "address": "Lalmatiya, Deukhuri, Dang",
+      "description": "Detail of Adarsha Secondary School"
+    },
+    {
       "name of school": "Bhagawati Model Higher Secondary School",
       "url": "N/A",
       "email": "N/A",
